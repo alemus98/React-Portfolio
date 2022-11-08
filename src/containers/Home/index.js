@@ -18,7 +18,6 @@ function Home() {
       <Mode  />
       <Header />
       <About />
-   
       <Project />
       <Footer />
     </div>
