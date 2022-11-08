@@ -1,28 +1,17 @@
-import "./App.css";
-import { useState } from "react";
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './routes/App';
+import reportWebVitals from './reportWebVitals';
 
-import Mode from "../../components/Mode/Mode";
-import Header from "../../components/Header/Header";
-import { About } from "../../components/About/About";
-import { Footer } from "../../components/Footer/Footer";
-import Project from "../../components/Project/Project";
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
 
-function Home() {
-  const [whiteMode, setQuietMode] = useState(false);
-
-  const handleModeChange = () => {
-    setQuietMode(!whiteMode);
-  };
-
-  return (
-    <div className={whiteMode ? "white-mode" : "dark-mode"}>
-      <Mode  />
-      <Header />
-      <About />
-      <Project />
-      <Footer />
-    </div>
-  );
-}
-
-export default Home;
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
