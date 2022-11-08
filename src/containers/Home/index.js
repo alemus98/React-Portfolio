@@ -7,11 +7,11 @@ import { Footer } from "../../components/Footer/Footer";
 import Project from "../../components/Project/Project";
 
 function Home() {
-  const [whiteMode, setQuietMode] = useState(false);
+  const [whiteMode] = useState(false);
 
-  const handleModeChange = () => {
-    setQuietMode(!whiteMode);
-  };
+  // const handleModeChange = () => {
+  //   setQuietMode(!whiteMode);
+  // };
 
   return (
     <div className={whiteMode ? "white-mode" : "dark-mode"}>
