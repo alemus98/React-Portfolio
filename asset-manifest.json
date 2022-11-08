@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.a7df9699.css",
-    "main.js": "/react-portfolio/static/js/main.6e0ce0da.js",
-    "static/js/787.128fc6e9.chunk.js": "/react-portfolio/static/js/787.128fc6e9.chunk.js",
-    "static/media/artist.png": "/react-portfolio/static/media/artist.cbbe607f68aff3dca302.png",
-    "static/media/Mood app pic.png": "/react-portfolio/static/media/Mood app pic.2e217ff69901bf8fc3ce.png",
-    "static/media/impulse.png": "/react-portfolio/static/media/impulse.dd8e9fdb49bf83fb193f.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.a7df9699.css.map": "/react-portfolio/static/css/main.a7df9699.css.map",
-    "main.6e0ce0da.js.map": "/react-portfolio/static/js/main.6e0ce0da.js.map",
-    "787.128fc6e9.chunk.js.map": "/react-portfolio/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.a7df9699.css",
+    "main.js": "/my-portfolio/static/js/main.e36ab4f8.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/artist.png": "/my-portfolio/static/media/artist.cbbe607f68aff3dca302.png",
+    "static/media/Mood app pic.png": "/my-portfolio/static/media/Mood app pic.2e217ff69901bf8fc3ce.png",
+    "static/media/impulse.png": "/my-portfolio/static/media/impulse.dd8e9fdb49bf83fb193f.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.a7df9699.css.map": "/my-portfolio/static/css/main.a7df9699.css.map",
+    "main.e36ab4f8.js.map": "/my-portfolio/static/js/main.e36ab4f8.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7df9699.css",
-    "static/js/main.6e0ce0da.js"
+    "static/js/main.e36ab4f8.js"
   ]
 }
