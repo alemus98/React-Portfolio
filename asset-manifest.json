@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.a7df9699.css",
-    "main.js": "/my-portfolio/static/js/main.5ec9ba41.js",
-    "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/artist.png": "/my-portfolio/static/media/artist.cbbe607f68aff3dca302.png",
-    "static/media/Mood app pic.png": "/my-portfolio/static/media/Mood app pic.2e217ff69901bf8fc3ce.png",
-    "static/media/impulse.png": "/my-portfolio/static/media/impulse.dd8e9fdb49bf83fb193f.png",
-    "index.html": "/my-portfolio/index.html",
-    "main.a7df9699.css.map": "/my-portfolio/static/css/main.a7df9699.css.map",
-    "main.5ec9ba41.js.map": "/my-portfolio/static/js/main.5ec9ba41.js.map",
-    "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/React-Portfolio/static/css/main.a7df9699.css",
+    "main.js": "/React-Portfolio/static/js/main.ae40b141.js",
+    "static/js/787.128fc6e9.chunk.js": "/React-Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/artist.png": "/React-Portfolio/static/media/artist.cbbe607f68aff3dca302.png",
+    "static/media/Mood app pic.png": "/React-Portfolio/static/media/Mood app pic.2e217ff69901bf8fc3ce.png",
+    "static/media/impulse.png": "/React-Portfolio/static/media/impulse.dd8e9fdb49bf83fb193f.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.a7df9699.css.map": "/React-Portfolio/static/css/main.a7df9699.css.map",
+    "main.ae40b141.js.map": "/React-Portfolio/static/js/main.ae40b141.js.map",
+    "787.128fc6e9.chunk.js.map": "/React-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7df9699.css",
-    "static/js/main.5ec9ba41.js"
+    "static/js/main.ae40b141.js"
   ]
 }
